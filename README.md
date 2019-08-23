@@ -24,7 +24,7 @@ goes well hopefully we can land an RFC or two to enable officially-sanctioned ad
 experimentation with "scoped services" and other dynamic scope use cases.
 
 If you're interesting to get involved or talk about this stuff, hit up the
-`#router-ideas` channel in the Ember Community Slack.
+`#router-ideas` channel in the [Ember Community Discord server](https://discord.gg/zT3asNS).
 
 ## Installation
 
